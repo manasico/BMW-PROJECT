@@ -1,0 +1,42 @@
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #101820;
+    color: white;
+}
+
+header {
+    background-color: black;
+    text-align: center;
+    padding: 30px;
+}
+
+header h1 {
+    color: #00aaff;
+}
+
+.container {
+    text-align: center;
+    padding: 30px;
+}
+
+.car {
+    background-color: #263746;
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 400px;
+    border-radius: 10px;
+}
+
+.car h3 {
+    color: #00aaff;
+}
+
+a {
+    color: white;
+    background-color: #0066cc;
+    padding: 12px 20px;
+    text-decoration: none;
+    display: inline-block;
+}
